@@ -1,3 +1,3 @@
 ## Leetcode Solutions 
-My leetcode solutions (Done in Java for purposes of learning!) </br>
+My leetcode solutions </br>
 Following Neetcode.io
