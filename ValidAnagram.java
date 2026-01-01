@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.HashMap;
 
 class ValidAnagram {
@@ -18,6 +17,7 @@ class ValidAnagram {
     // }
     // return true;
     // }
+
     public boolean isAnagram(String s, String t) {
         if (s.length() != t.length()) {
             return false;
