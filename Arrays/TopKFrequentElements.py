@@ -1,5 +1,3 @@
-
-
 def topKFrequent(nums: List[int], k: int) -> List[int]:
     # Count frequencies
     dic = defaultdict(int)
