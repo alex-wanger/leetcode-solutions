@@ -1,3 +1,3 @@
 ## Leetcode Solutions 
-My leetcode solutions </br>
+My Leetcode solutions </br>
 Following Neetcode.io
